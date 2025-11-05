@@ -1,0 +1,41 @@
+aside > p {
+    background-color: yellow;
+}
+
+footer > section > p {
+    background-color: pink;
+}
+
+main > p {
+    background-color: cornflowerblue;
+}
+
+ ul > li {
+    color: red;
+}
+
+.mainsec-p1 {
+    background-color: yellow;   /* Fills the box background with yellow color */
+    text-align: center;           /* Centers the text inside the box */
+    width: 200px;                 /* Sets the box content width */
+    padding: 20px;                /* Adds inner space between content and border */
+    border: solid black 10px;   /* Creates a 10px solid black border around the box */
+    margin: 50px;                 /* Adds outer space around the box */
+}
+
+.mainsec-p2 {
+    background-color: violet;
+}
+
+.anotherclass {
+    background-color: violet;
+}
+
+.menuspan {
+    font-size: x-large;
+    font-style: italic;
+}
+
+#my-id {
+    background-color: cyan;
+}

@@ -1,0 +1,19 @@
+h1, p {
+    background-color: yellow;
+    border: 2px solid green;
+
+    display: inline-block;
+    height: 50px;
+ }
+
+
+span, a {
+    border: double red 2px;
+    background-color: bisque;
+
+    display: block;
+ }
+
+img {
+    width: 50px;
+}

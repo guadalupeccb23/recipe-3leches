@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.p01 {
+    background-color: yellow;
+    border-bottom: red 2px solid;
+    border-left: red 2px solid;
+    border-top: red 2px solid;
+    border-right:red 2px solid;
+
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    margin: 1px;
+
+    width:200px;
+}
+
+.p02 {
+
+    background-color: green;
+    border: black dashed 1px;
+    padding: 25px;
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+p {
+    background-color: yellow; /* Sets the background color of the paragraph */
+/*    color: brown;              /* Sets the text color */
+ /*   font-size: 16px;
+/*  /*  width: 200px;              /* Defines the content width of the paragraph */
+/*    padding: 20px;             /* Adds inner space between text and border */
+/*    border: solid black 10px;  /* Creates a 10px solid black border */
+/*    margin: 50px;              /* Adds outer space around the paragraph */
+/*}/*
+
+/*span {
+/*    background-color: chartreuse;
+/*    width: 500px;
+/*    padding: 20px;
+/*    border: solid black 10px;
+/*    margin: 50px;
+/*} 

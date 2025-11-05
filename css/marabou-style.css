@@ -1,0 +1,99 @@
+
+
+body {
+    background-color: rgb(253, 181, 42);
+}
+
+.sec-left {
+    margin-left: 382px;
+    margin-top: 100px;
+    width: 25%;
+}
+
+p::after {
+    content: '***`';
+}
+
+
+h2 {
+    font-family: "Berkshire Swash", handwriting;
+    font-size: 2.8666666667rem;
+    font-weight: 400;
+    color: rgb(49, 51, 56);
+    text-align: left;
+    line-height: 1.3em;
+}
+
+h2:hover{
+    color: red;
+}
+
+h3 {
+    color: rgb(49, 51, 56);
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.9rem;
+    line-height: 1.3em;
+    font-style: normal;
+    font-weight: 600;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-family: -webkit-standard;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px;
+
+}
+
+#sec-footer {
+    height: 75px;
+    padding-top: 32px;
+}
+
+a {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding-top: 16px;
+    padding-right: 40px;
+    padding-bottom: 16px;
+    padding-left: 40px;
+
+    color: #ffffff;
+    background-color: #ff770f;
+
+    font-family: 'Raleway', sans-serif;
+
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+
+
+    text-decoration-color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+
+    text-align: left;
+}
+
+a:hover {
+    background-color: brown;
+}
+
+.main-text::first-line{
+    font-size: xx-large;
+}
+
+
+
+
+
+
+a::after {
+    content: "\f061";
+}
+
